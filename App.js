@@ -11,6 +11,11 @@ export default function App() {
       <Text>Open up Adpp.js to start working on your app!</Text> 
       <Text>Open up Adpp.js to start working on your app!</Text> 
       <Text>Open up Adpp.js to start working on your app!</Text> 
+      <Text>Open up Adpp.js to start working on your app!</Text>
+      <Text>Open up Adpp.js to start working on your app!</Text>
+      <Text>Open up Adpp.js to start working on your app!</Text>
+      <Text>Open up Adpp.js to start working on your app!</Text>
+
 
     </View>
   );
